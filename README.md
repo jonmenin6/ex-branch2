@@ -1,2 +1,4 @@
 exemploooooo
+<<<<<<< HEAD
  conflito
+
